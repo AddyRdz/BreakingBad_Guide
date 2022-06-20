@@ -3,6 +3,8 @@
 
 ## Technologies Used
 
+## Link to the API I Used
+
 ## API Code Example
 
-## Wireframe
+## Wire-Frame
