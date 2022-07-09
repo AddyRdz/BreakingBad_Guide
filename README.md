@@ -23,3 +23,4 @@ https://www.breakingbadapi.com/api/
     portrayed: "Bryan Cranston"
 }
 ## Wire Frame
+<img width="1516" alt="Wire Frame_BreakingBad" src="https://user-images.githubusercontent.com/95986357/178090070-135a79a2-2545-4227-99f7-faba434badb3.png">
