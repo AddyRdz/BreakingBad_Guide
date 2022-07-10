@@ -3,7 +3,8 @@
 function App() {
   return (
     <div>
-        Hello World.
+        This is the welcome page.
+        <p><button>Click to Enter</button></p>
       
     </div>
   );
